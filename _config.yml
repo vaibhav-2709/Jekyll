@@ -1,10 +1,19 @@
 title: "Vaibhav Dutt Trivedi's Resume"
-email: "vaibhav@example.com"
+email: "trivedivaibhav0111@gmail.com"
 description: "A passionate developer's resume."
-baseurl: ""
-url: "http://localhost:4000"
-theme: "minima"  # You can also use other themes, such as jekyll-theme-cayman.
+baseurl: "" # keep this empty if deploying to user.github.io
+url: "https://vaibhav-2709.github.io" # 🔁 Replace with your actual GitHub Pages URL
+theme: minima
 
 social_links:
-  linkedin: "https://linkedin.com/in/vaibhavdutt"
-  github: "https://github.com/vaibhavdutt"
+  linkedin: "https://linkedin.com/in/vaibhav-dutt-trivedi-206a19274"
+  github: "https://github.com/vaibhav-2709"
+
+# Optional: These help GitHub Pages render your site cleanly
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional but useful:
+markdown: kramdown
+highlighter: rouge
