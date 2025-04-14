@@ -1,0 +1,10 @@
+title: "Vaibhav Dutt Trivedi's Resume"
+email: "vaibhav@example.com"
+description: "A passionate developer's resume."
+baseurl: ""
+url: "http://localhost:4000"
+theme: "minima"  # You can also use other themes, such as jekyll-theme-cayman.
+
+social_links:
+  linkedin: "https://linkedin.com/in/vaibhavdutt"
+  github: "https://github.com/vaibhavdutt"
